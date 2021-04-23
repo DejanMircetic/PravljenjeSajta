@@ -46,6 +46,7 @@ runtime: shiny_prerendered`
 
 - Za svoj web site koristi blogdown::serve_site() i neku hugo academic temu u video snimku onog One R markdown document 14 demos imas na kraju dobro objasnjenje.
 
+- **VAŽNO** Kada pravis sajt sve radi normalno međutim kada site folder uploadujes na GitHub traje jako dugo, cak ne stigne ni stage proces da se završi. Tako da procedura nek ti bude ti mjenjaj sve ovdje i staguj manje foldere ovdje a rucno ubacuj u github folder site fajl svaki pun kad generises bilo kakvu promjenu jer se mjenja citav folder koji ima 5 mb.
 Kasnije kako budes ucio dodati jos koraka i medjufaza u [Raspored ucenja](#anchor)
 
 # Reference
