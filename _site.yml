@@ -1,0 +1,14 @@
+navbar:
+  title: RMarkdown tutorial
+  left:
+  - text: Schedule
+    href: schedule.html
+  - text: Labs
+    menu:
+    - text: Lab 1
+      href: lab01.html
+    - text: Lab 2
+      href: lab02.html
+output:
+  html_document:
+    theme: flatly

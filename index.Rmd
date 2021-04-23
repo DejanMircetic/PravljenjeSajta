@@ -1,0 +1,27 @@
+---
+title: "Mastering RMarkdown"
+---
+
+# Dobrodošli
+
+Ovo je sajt o tome kako da se usavrsisi u RMakrdownu.
+Sajt je napravljen na osnovu _*Rstudio*_ webinara [link](https://www.rstudio.com/resources/webinars/sharing-on-short-notice-how-to-get-your-materials-online-with-r-markdown/).
+
+Slajdovi sa tog webinara se nalaze na sledecem [linku](https://rstudio-education.github.io/sharing-short-notice/#69).
+
+
+# Lab01
+
+Predstavlja RMarkdown dokument koji postepeno prezentuje razlicite mogucnosti kod kreiranja dokumenta. Počevši od:
+
+* podešavanje metapodataka u Yamalu, 
+* generalinih opcija sa sve _chunkove_ u pocetnom chunku,
+* nacina predtavljanja razlicitih tabela,
+
+# Ciljevi
+
+>- Napravi online prezentacije koje se ne mogu kopirati, kao hindmanova knjiga
+>- usavrsiti Rmakrdwon za pisanje radova, otkriti sve fore.
+>- Dodavanje Shiny aplikacije u RMarkdown prezentacije.
+>- Dodavanje HTML vidgeta u prezentaciju.
+>- **Napraviti svoj sajt**
