@@ -1,0 +1,41 @@
+---
+title: "Untitled"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+Ovo je pokusaj da se vidi kako funckionisu ovi flexdashboards sabloni. Na ovoj stranici možeš saznati više o tome kako funkcionišu <https://rmarkdown.rstudio.com/flexdashboard/>.
+
+```{r kable cars}
+plot(cars)
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+Ako pogledamo izbliza ove podatke.
+
+```{r}
+library(knitr)
+kable(summary(cars), caption="Tabela o autima.")
+```
+
+### Chart C
+Trlja baba lan da joj prođe dan.
+```{r}
+
+```
+
